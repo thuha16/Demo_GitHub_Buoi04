@@ -1,0 +1,5 @@
+E:\LuuDuLieuSV\2001215740_NguyenThiThuHa_Buoi02\NguyenThiThuHa_Buoi02\txt_KhongChuaKTDB\bin\Debug\txt_KhongChuaKTDB.dll
+E:\LuuDuLieuSV\2001215740_NguyenThiThuHa_Buoi02\NguyenThiThuHa_Buoi02\txt_KhongChuaKTDB\bin\Debug\txt_KhongChuaKTDB.pdb
+E:\LuuDuLieuSV\2001215740_NguyenThiThuHa_Buoi02\NguyenThiThuHa_Buoi02\txt_KhongChuaKTDB\obj\Debug\TextBox_KhongChuaKTDB.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSV\2001215740_NguyenThiThuHa_Buoi02\NguyenThiThuHa_Buoi02\txt_KhongChuaKTDB\obj\Debug\txt_KhongChuaKTDB.dll
+E:\LuuDuLieuSV\2001215740_NguyenThiThuHa_Buoi02\NguyenThiThuHa_Buoi02\txt_KhongChuaKTDB\obj\Debug\txt_KhongChuaKTDB.pdb

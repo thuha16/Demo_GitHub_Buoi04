@@ -1,0 +1,5 @@
+E:\LuuDuLieuSV\2001215740_NguyenThiThuHa_Buoi02\NguyenThiThuHa_Buoi02\TextBox_NhapSo\bin\Debug\TextBox_NhapSo.dll
+E:\LuuDuLieuSV\2001215740_NguyenThiThuHa_Buoi02\NguyenThiThuHa_Buoi02\TextBox_NhapSo\bin\Debug\TextBox_NhapSo.pdb
+E:\LuuDuLieuSV\2001215740_NguyenThiThuHa_Buoi02\NguyenThiThuHa_Buoi02\TextBox_NhapSo\obj\Debug\TextBox_NhapSo.dll
+E:\LuuDuLieuSV\2001215740_NguyenThiThuHa_Buoi02\NguyenThiThuHa_Buoi02\TextBox_NhapSo\obj\Debug\TextBox_NhapSo.pdb
+E:\LuuDuLieuSV\2001215740_NguyenThiThuHa_Buoi02\NguyenThiThuHa_Buoi02\TextBox_NhapSo\obj\Debug\TextBox_NhapSo.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\LuuDuLieuSV\2001215740_NguyenThiThuHa_Buoi02\NguyenThiThuHa_Buoi02\UC_Controls\bin\Debug\UC_Controls.dll
+E:\LuuDuLieuSV\2001215740_NguyenThiThuHa_Buoi02\NguyenThiThuHa_Buoi02\UC_Controls\bin\Debug\UC_Controls.pdb
+E:\LuuDuLieuSV\2001215740_NguyenThiThuHa_Buoi02\NguyenThiThuHa_Buoi02\UC_Controls\obj\Debug\UC_Controls.UserControl1.resources
+E:\LuuDuLieuSV\2001215740_NguyenThiThuHa_Buoi02\NguyenThiThuHa_Buoi02\UC_Controls\obj\Debug\UC_Controls.csproj.GenerateResource.Cache
+E:\LuuDuLieuSV\2001215740_NguyenThiThuHa_Buoi02\NguyenThiThuHa_Buoi02\UC_Controls\obj\Debug\UC_Controls.dll
+E:\LuuDuLieuSV\2001215740_NguyenThiThuHa_Buoi02\NguyenThiThuHa_Buoi02\UC_Controls\obj\Debug\UC_Controls.pdb

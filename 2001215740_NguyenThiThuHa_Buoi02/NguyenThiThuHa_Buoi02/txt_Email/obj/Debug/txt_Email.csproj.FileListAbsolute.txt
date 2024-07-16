@@ -1,0 +1,4 @@
+E:\LuuDuLieuSV\2001215740_NguyenThiThuHa_Buoi02\NguyenThiThuHa_Buoi02\txt_Email\bin\Debug\txt_Email.dll
+E:\LuuDuLieuSV\2001215740_NguyenThiThuHa_Buoi02\NguyenThiThuHa_Buoi02\txt_Email\bin\Debug\txt_Email.pdb
+E:\LuuDuLieuSV\2001215740_NguyenThiThuHa_Buoi02\NguyenThiThuHa_Buoi02\txt_Email\obj\Debug\txt_Email.dll
+E:\LuuDuLieuSV\2001215740_NguyenThiThuHa_Buoi02\NguyenThiThuHa_Buoi02\txt_Email\obj\Debug\txt_Email.pdb
